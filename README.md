@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## What is EMMA?
+While many AI models are trained to predict a single, definitive answer for each given query, in real life, we often encounter many situations where there are no black or white answers! We introduce, EMMA, a machine advisor that goes beyond such one-dimensional decison to uncover answers and belief structures in complex situations.
 
-You can use the [editor on GitHub](https://github.com/nikett/emma/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does EMMA work?
 
-### Markdown
+EMMA materializes the beliefs of the model for an input statement, uncovering different assumptions and perspectives. It then builds a network of beliefs, and that structure is critiqued using self-feedback (such as structural consistency, self-beliefs) and human feedback (such as thumbs down). Together with this critique, the network of beliefs is then improved using maxsat based reasoning to generate the most consistent belief network as output.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
