@@ -4,7 +4,7 @@ While many AI models are trained to predict a single, definitive answer for each
 
 ### How does EMMA work?
 
-![Flow](figures/flow.pdf)
+![Flow](/figures/flow.png)
 
 EMMA materializes the beliefs of the model for an input statement, uncovering different assumptions and perspectives. It then builds a network of beliefs, and that structure is critiqued using self-feedback (such as structural consistency, self-beliefs) and human feedback (such as thumbs down). Together with this critique, the network of beliefs is then improved using maxsat based reasoning to generate the most consistent belief network as output.
 
