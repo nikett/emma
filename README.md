@@ -14,14 +14,7 @@ EMMA materializes the beliefs of the model for an input statement, uncovering di
 
 Watch a 2 minutes short video for a demonstration EMMA.
 
-https://user-images.githubusercontent.com/53187122/182702175-834faabf-d4cf-441b-b52d-d1004ed1fa5e.mp4
-
-
-<iframe width="80%" height="80%" src="https://user-images.githubusercontent.com/53187122/182702175-834faabf-d4cf-441b-b52d-d1004ed1fa5e.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-<iframe width="700px" height="500px" src="https://user-images.githubusercontent.com/53187122/182702175-834faabf-d4cf-441b-b52d-d1004ed1fa5e.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="height: 100%; height: 100%" allowfullscreen></iframe>
+<iframe width="700px" height="500px" src="https://user-images.githubusercontent.com/53187122/182702175-834faabf-d4cf-441b-b52d-d1004ed1fa5e.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
