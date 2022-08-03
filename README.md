@@ -11,7 +11,7 @@ EMMA materializes the beliefs of the model for an input statement, uncovering di
 ### Using EMMA (video)
 
 Watch a 2 minutes short video for a demonstration of our system!
-![Demonstration](/figures/emma-video-demo.webm)
+![Demonstration](/figures/emma-video-demo.mp4)
 
 ### Try out EMMA!
 Click [here](https://allenai-defeasible-explanations-srcvdemo-interactive-jpe7t4.streamlitapp.com/?on_demand=false) to try out EMMA!
