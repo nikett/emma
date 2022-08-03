@@ -1,4 +1,6 @@
-## What is EMMA?
+## EMMA (*E*thics, *M*orality and beyond: a *M*achine *A*dvisor)
+
+### What is EMMA?
 While many AI models are trained to predict a single, definitive answer for each given query, in real life, we often encounter dilemmas and many situations where there are no black or white answers. We introduce, EMMA, a machine advisor that goes beyond such one-dimensional decisons and uncovers answers and perpectives incl. the underlying belief network of a model in complex situations.
 
 
